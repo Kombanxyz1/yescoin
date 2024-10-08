@@ -14,7 +14,7 @@ def print_welcome_message():
 ░▒█░░░░▒█▄▄▀░▒█░░▒█▒█▒█░▒█░░▒█▒█▒█▒█▄▄█░▒█░░░
 ░▒█▄▄▀░▒█░▒█░▄█▄░▒█░░▒█░▄█▄░▒█░░▀█▒█░▒█░▒█▄▄█
 
-  
+   """)
 # Load tokens from file
 def load_tokens(file_path):
     with open(file_path, 'r') as file:
