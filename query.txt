@@ -1,1 +1,1 @@
-
+user=%7B%22id%22%3A5187209404%2C%22first_name%22%3A%22HACKER%20OR%20WOT%28XYZcriminal%29%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Ha_cker_xyz%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5700556450325498435&chat_type=sender&auth_date=1728366730&hash=337ba0a1c1e8d36d8feba99423553a58a54e8e4b4921e38fa53309e824a69603
