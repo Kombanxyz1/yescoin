@@ -16,7 +16,7 @@ def print_welcome_message():
 
           """)
     print(Fore.GREEN + Style.BRIGHT + "YesCoin (Gold) BOT")
-    print(Fore.YELLOW + Style.BRIGHT + "Free Konsultasi Join Telegram Channel: https://t.me/ghalibie")
+    print(Fore.YELLOW + Style.BRIGHT + " Join Telegram Channel: https://t.me/+-G-tnVGzi-ZkYjg1")
     print(Fore.BLUE + Style.BRIGHT + "Buy me a coffee :)  GPAY / xyz")
     print(Fore.RED + Style.BRIGHT + "NOT FOR SALE ! Ngotak dikit bang. Ngoding susah2 kau tinggal rename :)\n\n")
 
