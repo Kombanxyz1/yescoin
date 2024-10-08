@@ -17,7 +17,7 @@ def print_welcome_message():
     Bot by - @XYZ_CRIMINAL
     {Fore.RED}B{Fore.BLUE}u{Fore.GREEN}g{Fore.YELLOW} {Fore.CYAN}f{Fore.MAGENTA}i{Fore.GREEN}x{Fore.RED}e{Fore.BLUE}r: {Fore.GREEN}APK {Fore.YELLOW}SHADOW {Fore.CYAN}ESP{Style.RESET_ALL}
     Telegram: https://t.me/+Zan-uNZZCcMwNTE1
-        {Style.RESET_ALL}""")
+        {Style.RESET_ALL}"""
 # Load tokens from file
 def load_tokens(file_path):
     with open(file_path, 'r') as file:
